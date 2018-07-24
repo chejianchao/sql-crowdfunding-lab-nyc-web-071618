@@ -8,4 +8,6 @@ create table projects(
   end_date text
 );
 
-create table users
+create table users(
+  id integer 
+);
