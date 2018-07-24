@@ -14,3 +14,7 @@ create table users(
   age integer
 );
 
+create table pledges(
+  id integer primary key,
+  amount 
+);
