@@ -16,5 +16,7 @@ create table users(
 
 create table pledges(
   id integer primary key,
-  amount 
+  amount real,
+  user_id integer,
+  project_id integer
 );
