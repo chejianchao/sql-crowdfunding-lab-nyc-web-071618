@@ -8,4 +8,4 @@ create table projects(
   end_date text
 );
 
-create 
+create table users
